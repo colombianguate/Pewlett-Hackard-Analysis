@@ -28,5 +28,8 @@ This is also known as te "silver trunami".
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
     - With only a total of 1549 of retirees elgible for mentorship program, there is not enough to mentor the next generation. 
     
-- Two Possible additional queires or tables:
-    -
+- Two possible additional queires or tables:
+    - Getting a percentage of the retirees from the total number of employees.
+    - Create a query where we can have employees getting close to retirement and have them participate in an early mentorship program. 
+    
+
