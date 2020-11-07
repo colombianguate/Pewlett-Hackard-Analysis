@@ -7,6 +7,12 @@ This is also known as te "silver trunami".
 
 ## Results
 
- - Deliverable 1
-    - We got the name of employees that are elgible for retirement by using a  `` DISTINCT COUNT `` on the emp_no to get most recent job title.
-    -  To expand on which roles where there can be possibe retirements, we got the total count 
+    - We got the name of employees that retiring by using a  `` DISTINCT COUNT `` on the emp_no to get most recent job title.
+    -  To expand on which roles retirements, we got the total count.
+    ![line_image](Resources/count.png)
+ 
+    - From the image above the most jobs with people that are retiring are Senior Engineer and Senior Staff, which comes at no suprise. The more you get promoted the more you have been working in that role.
+    
+    - ![line_image](Resources/mentorship.png)
+    
+   - 
